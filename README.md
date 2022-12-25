@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mosesmakaka
 - 👀 I’m interested in Data Science, Automation, Full stack, IoT, hackintosh
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on hackintosh development
+- 💞️ I’m looking to collaborate on IoT Projects.
 - 📫 How to reach me : moseskax@gmail.com
 
 <!---
