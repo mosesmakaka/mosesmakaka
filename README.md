@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mosesmakaka
-- 👀 I’m interested in Data Science, Automation, Full stack, IoT, hackintosh, Robotics
+- 👀 I’m interested in Data Science, Automation, Full stack, IoT, hackintosh, Robotics, Web and App Development.
 - 📫 How to reach me : moseskax@gmail.com
 - 📚 Currently learning Java
 <!---
