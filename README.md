@@ -8,7 +8,6 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Student at Hochschule Rhein-Waal  
 - 💻 Focused on **Front-end** & modern UI/UX  
 - 🌍 Passionate about tech that solves **real-world problems**  
 - ⚡ Fun fact: I can debug faster with coffee ☕
