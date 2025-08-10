@@ -56,12 +56,6 @@
 
 ---
 
-## 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ymtpe3uphhxcmt5qerv2ycvpxe)
-
-
----
-
 ## ✨ Quote of the Day
 <!-- Auto-updated with GitHub Actions -->
 > _"Strive not to be a success, but rather to be of value."_ — Albert Einstein
